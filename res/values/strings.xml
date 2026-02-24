@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Farmer Helper App</string>
+
+    <string-array name="crop_array">
+        <item>Rice</item>
+        <item>Wheat</item>
+        <item>Maize</item>
+    </string-array>
+
+    <string-array name="soil_type_array">
+        <item>Loamy</item>
+        <item>Clay</item>
+        <item>Sandy</item>
+    </string-array>
+
+    <string-array name="season_array">
+        <item>Monsoon</item>
+        <item>Winter</item>
+        <item>Summer</item>
+    </string-array>
+</resources>
